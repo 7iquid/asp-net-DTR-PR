@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tavie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tavie\\.nuget\\packages"
+    ]
+  }
+}
